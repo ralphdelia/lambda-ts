@@ -1,3 +1,4 @@
+A simple template for TypeScript-based Lambdas. Inlcudes a build script that compiles TypeScript and zips project files.
 # lambda-ts
 To get started `npm install`
 
